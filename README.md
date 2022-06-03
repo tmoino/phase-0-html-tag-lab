@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Code an `h1` tag
-- Set the inner text of the `h1` to `Hello, World!`
+- Set the inner text of the `h1` to git@github.com:tmoino/phase-0-html-tag-lab.git
 
 ## Introduction
 
